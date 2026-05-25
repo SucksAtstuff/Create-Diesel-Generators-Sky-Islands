@@ -23,12 +23,12 @@ Oil amounts are still determined by CDG's normal chunk-based noise — this bloc
 ### Recipe
 
 ```
-[ Ender Eye ] [ Brass Casing ] [ Ender Eye ]
-[ Brass Casing ] [ Ender Eye ] [ Brass Casing ]
-[ Ender Eye ] [ Brass Casing ] [ Ender Eye ]
+[ Ender Eye  ] [ Brass Casing ] [ Ender Eye  ]
+[ Brass Casing ] [ Fluid Tank ] [ Brass Casing ]
+[ Ender Eye  ] [ Brass Casing ] [ Ender Eye  ]
 ```
 
-5 Eyes of Ender + 4 Brass Casings → 1 Sky Oil Deposit
+4 Eyes of Ender + 4 Brass Casings + 1 Fluid Tank → 1 Sky Oil Deposit
 
 ## Dependencies
 
