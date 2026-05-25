@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BCB",
+    "CBC",
+    "BCB"
+  ],
+  "key": {
+    "C": { "item": "create:brass_casing" },
+    "B": { "item": "minecraft:ender_eye" }
+  },
+  "result": {
+    "id": "create_diesel_skyislands:sky_oil_deposit",
+    "count": 1
+  }
+}

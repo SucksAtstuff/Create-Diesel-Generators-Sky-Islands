@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "create_diesel_skyislands:block/sky_oil_deposit"
+    }
+  }
+}
