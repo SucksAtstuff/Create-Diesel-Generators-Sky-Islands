@@ -1,4 +1,4 @@
-# Create: Diesel Generators — Sky Islands
+# Create: Diesel Generators [Sky Islands]
 
 A small compatibility mod for **NeoForge 1.21.1** that lets [Create Diesel Generators](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators) pumpjacks work in sky island worlds (e.g. Sky Archipelago + Aeronautics).
 
