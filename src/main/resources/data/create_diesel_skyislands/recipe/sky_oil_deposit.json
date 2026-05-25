@@ -2,12 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "BCB",
-    "CBC",
+    "CTC",
     "BCB"
   ],
   "key": {
+    "B": { "item": "minecraft:ender_eye" },
     "C": { "item": "create:brass_casing" },
-    "B": { "item": "minecraft:ender_eye" }
+    "T": { "item": "create:fluid_tank" }
   },
   "result": {
     "id": "create_diesel_skyislands:sky_oil_deposit",
